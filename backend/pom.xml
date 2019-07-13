@@ -115,7 +115,7 @@
 
         <profile>
             <!-- HOT RELOAD: START 'NPM RUN WATCH' IN FRONTEND THEN START BACKEND WITH THIS PROFILE TO GET -->
-            <id>serve</id>
+            <id>watch</id>
             <activation>
                 <activeByDefault>false</activeByDefault>
             </activation>
